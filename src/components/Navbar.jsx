@@ -19,7 +19,7 @@ const Navbar = () => {
     <nav className="bg-blue-600 text-white sticky top-0 z-50 shadow-md">
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center py-4">
-          <div className="text-xl font-bold">My Portfolio</div>
+          <div className="text-xl font-bold">Ahmedin, Jamil Alamin</div>
           
           {/* Mobile menu button */}
           <div className="md:hidden">
