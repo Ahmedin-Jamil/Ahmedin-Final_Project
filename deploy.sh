@@ -9,6 +9,9 @@ mkdir -p temp_deploy
 # Copy the build files to the temporary directory
 cp -r dist/* temp_deploy/
 
+# Fix paths in index.html
+sed -i 's|/Ahmedin-Final_Project/assets/|./assets/|g' temp_deploy/index.html
+
 # Switch to gh-pages branch
 git checkout gh-pages || git checkout -b gh-pages
 
