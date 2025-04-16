@@ -123,9 +123,9 @@ const Contact = () => {
           <div className="mt-8 pt-8 border-t border-gray-200">
             <h3 className="text-xl font-medium mb-4">Contact Information</h3>
             <div className="space-y-2">
-              <p><span className="font-medium">Email:</span> contact@example.com</p>
-              <p><span className="font-medium">Phone:</span> (123) 456-7890</p>
-              <p><span className="font-medium">Location:</span> San Francisco, CA</p>
+              <p><span className="font-medium">Email:</span> jamil.al.amin1100@gmail.com</p>
+              <p><span className="font-medium">Phone:</span> 09158091139</p>
+              <p><span className="font-medium">Location:</span> Baguio City, Philippines</p>
             </div>
           </div>
         </div>
